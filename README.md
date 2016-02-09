@@ -1,2 +1,8 @@
-# hello-world
-Erste praktische Anwendung von git
+hello-world
+===========
+
+Hi Humans!
+
+Erste praktische Anwendung von git.
+
+
